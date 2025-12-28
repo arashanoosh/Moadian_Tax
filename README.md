@@ -1,1 +1,1 @@
-#Moadian Connection Aloorithm
+# Moadian Connection Algorithm 
